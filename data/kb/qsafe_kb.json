@@ -1,0 +1,35 @@
+{
+    "CompanyName": "C9Lab Cybersecurity Solutions",
+    "Tagline": "Precision Protection, Powered by AI",
+    "Description": "C9Lab specializes in comprehensive cybersecurity offerings, providing automated phishing simulations (C9Phish), brand and attack surface protection (QSafe), website performance monitoring (C9Pharos), and domain-based risk scoring (BRS). By leveraging AI-driven insights and continuous monitoring, C9Lab empowers organizations to proactively defend against evolving threats.",
+    "Website": "https://www.c9lab.com",
+    "ContactEmail": "info@c9lab.com",
+    "ContactPhone": "+1-800-123-4567",
+    "Address": "305 Atulya IT Park, Indore MP, India",
+    "Founder": "Abhijeet Akolekar",
+    "Promoters": [
+      {
+        "name": "Love Saxena",
+        "role": "Promoter",
+        "contribution": "Encouraged Abhijeet Akolekar to found the company and provided initial support"
+      },
+      {
+        "name": "CA Dashrath Tomar",
+        "role": "Promoter",
+        "contribution": "Oversees financial operations and accounting functions"
+      }
+    ],
+    "Awards": [
+      "Startup of the Year",
+      "Central India's Best Cybersecurity Product Company"
+    ],
+    "BFSI": "Sector Overview:\nLarge volumes of sensitive customer data and strict compliance regimes (RBI, SEBI, PCI-DSS)...\n\nTop Pain Points:\n• Phishing & Social Engineering\n• Brand Impersonation\n• Regulatory Compliance\n• Third-Party Risk\n\nModules & Features:\n• Impersonation Domain Monitoring\n• Social Media Handle Watch\n• Phishing Threat Intelligence\n• External Attack Surface Management\n• Automated Takedown Services\n• Compliance Reporting Dashboard\n\nBenefits:\nReduce phishing click-rate, shut down fraudulent sites in hours, demonstrate audit readiness.",
+    "Healthcare": "Sector Overview:\nPatient privacy (HIPAA, GDPR), intellectual property for drug research, and critical availability of online services...\n\nTop Pain Points:\n• Patient Data Leakage\n• Rogue Telemedicine Apps\n• Domain Squatting\n• Vulnerability Exposure\n\nModules & Features:\n• Dark Web Scan\n• Mobile App Reverse Engineering\n• Domain Expiry & SSL Monitoring\n• OWASP Top 10 Web Scan\n\nBenefits:\nWith proactive dark-web intelligence and vulnerability scanning, safeguard patient data and ensure uptime.",
+    "E-commerce": "Sector Overview:\nHigh transaction volumes, seasonal peaks, and strong dependency on brand trust...\n\nTop Pain Points:\n• Fake Flash Sale Sites\n• Credential Stuffing\n• Supply-Chain Fake Listings\n• SSL Downtime\n\nModules & Features:\n• Imitation Domain Alerts\n• SSL & Uptime Monitoring\n• Dark Web Credential Alerts\n• API Integration with WAF/SIEM\n\nBenefits:\nMaintain customer trust, reduce chargebacks, and ensure business continuity.",
+    "Telecom": "Sector Overview:\nLarge OSS/BSS attack surface, high-profile customer base, and regulatory oversight on messaging...\n\nTop Pain Points:\n• SMS/Voice Phishing (Smishing/Vishing)\n• Unauthorized OTT Apps\n• Network Reconnaissance\n• Brand Theft\n\nModules & Features:\n• Social Sentiment Analysis\n• Port & Service Scan\n• Mobile App Vetting\n• Automated DMCA & Takedown\n\nBenefits:\nPreserve brand integrity and reduce subscriber churn due to fraud.",
+    "Manufacturing": "Sector Overview:\nOT networks converge with IT, making factories vulnerable to external threats...\n\nTop Pain Points:\n• Brand Counterfeits\n• Supply-Chain Malware\n• Vulnerability Exploits\n• Social Engineering\n\nModules & Features:\n• External Attack Surface Discovery\n• Impersonation Domain & Trademark Watch\n• Email Phishing Risk Profiling\n• Dark Web Leak Alerts\n\nBenefits:\nSecure IP, reduce downtime, and protect critical operations.",
+    "Government": "Sector Overview:\nCitizen-facing services with transparency requirements and high-impact risks...\n\nTop Pain Points:\n• Disinformation Campaigns\n• Credential Harvesting\n• Domain Typosquatting\n• OSS Vulnerabilities\n\nModules & Features:\n• Brand & Domain Monitoring\n• Social Media Impersonation Alerts\n• Vulnerability & SSL Health Checks\n• Takedown Orchestration\n\nBenefits:\nMaintain public trust and thwart influence operations.",
+    "Education": "Sector Overview:\nOnline learning platforms and credentialing systems hold sensitive academic data...\n\nTop Pain Points:\n• Phishing for Credentials\n• Imposter Course Platforms\n• SSL Interruptions\n• App-Based Cheating Tools\n\nModules & Features:\n• Email Risk Profiling\n• Domain & Trademark Guards\n• Mobile App Analysis\n• SSL & Uptime Alerts\n\nBenefits:\nEnsure academic integrity and uninterrupted learning.",
+    "Energy": "Sector Overview:\nOT and IT convergence, highly targeted by sophisticated actors...\n\nTop Pain Points:\n• SCADA/ICS Vulnerabilities\n• Fake Service Portals\n• Domain and IP Spoofing\n• Dark Web Blueprint Leaks\n\nModules & Features:\n• Infrastructure Fingerprinting\n• Dark Web Blueprint Discovery\n• Impersonation Domain Takedowns\n• Continuous Vulnerability Scans\n\nBenefits:\nReduce downtime and sabotage risk, ensuring reliable critical services."
+  }
+ 

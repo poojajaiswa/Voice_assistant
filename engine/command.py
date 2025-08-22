@@ -39,6 +39,6 @@ def takecommand():
     return query.lower()
 
 # @eel.expose
-text = takecommand()
-
-speak("text")
+# text = takecommand()
+# 
+# speak("text")

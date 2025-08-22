@@ -71,7 +71,16 @@ $(document).ready(function () {
 
 
 
-
-
-
 })
+
+    // Ask chatbot function
+    async function askBot() {
+        let userPrompt = $("#UserInput").val();  // input box value
+        let response = await eel.query_llama(userPrompt)();  // call python
+        $("#BotResponse").text(response);  // show on screen
+    }
+
+    // Example: bind to a button
+    $("#AskBtn").click(function () {
+        askBot();
+    });
