@@ -16,6 +16,7 @@ with open("data/cybersecurity.txt", "r", encoding="utf-8") as f:
 def start():
 
     eel.init("www")
+    print("")
 
     playAssistantSound()
     # @eel.expose
